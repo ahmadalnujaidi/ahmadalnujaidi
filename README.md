@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadalnujaidi
-- 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently learning ... Fullstack Engineering, and Machine Learning/Artificial Intelligence Engineering
+- 👀 I’m interested in ... Backend Engineering / Data Engineering
+- 🌱 I’m currently learning ... everything ... you can never have enough knowledge ...
 - 📫 How to reach me ... https://www.linkedin.com/in/ahmadalnujaidi/
 
 <!---
